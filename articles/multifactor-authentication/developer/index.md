@@ -18,6 +18,10 @@ Apply the look-and-feel of your organization by working with our Guardian client
 * [Client library for Auth0 Guardian](https://github.com/auth0/auth0-guardian.js)
 * [Creating a Custom Guardian Widget](https://github.com/auth0/auth0-guardian.js/tree/master/example)
 
+## Enrollment email
+Right now if you want to send an enrollment email that could be done using [This](/multifactor-authentication/administrator/guardian-enrollment-email). It's possible to customize that.
+* [Custom enrollment ticket](/multifactor-authentication/developer/custom-enrollment-ticket)
+
 ## Building Custom Mobile Applications
 Developers can build custom 'white-label' Guardian-like applications, or add multifactor functionality into their own applications.
 * [Getting Started with Guardian for Android](/multifactor-authentication/developer/libraries/android)
